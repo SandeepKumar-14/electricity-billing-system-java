@@ -42,7 +42,7 @@ src/
 ![Billing Screen](screenshots/billing.png)
 
 ### Payment Screen
-![Payment Screen](screenshots/payment.png) ![Payment Screen](screenshots/payment_methods.png)
+![Payment Screen](screenshots/payment.png) 
 
 ## Database Details
 - Uses a local MySQL database
@@ -65,3 +65,9 @@ src/
 - Improve exception handling
 - Add role-based access control
 - Export bills as PDF
+
+  ## Download
+The runnable JAR can be downloaded from the GitHub Releases page:
+
+➡️ https://github.com/SandeepKumar-14/electricity-billing-system-java/releases
+
